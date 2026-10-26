@@ -12,4 +12,4 @@ Writing:
 - [Letting agents drive a real browser on the Mac I'm typing on](https://denzil10.github.io/blog/browser-agents-on-your-own-desktop/)
 - [A prompt is not a control: two autopilots that forged their own evidence](https://denzil10.github.io/blog/a-prompt-is-not-a-control/)
 
-Open to AI engineer and forward deployed engineer roles: hybrid in Navi Mumbai, or relocating abroad. [LinkedIn](https://www.linkedin.com/in/denzil-nelson-b18121220/) · [X @denzilnelsonai](https://x.com/denzilnelsonai)
+Open to AI engineer and forward deployed engineer roles: hybrid in Navi Mumbai, or relocating abroad. [CV](https://denzil10.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/denzil-nelson-b18121220/) · [X @denzilnelsonai](https://x.com/denzilnelsonai)
