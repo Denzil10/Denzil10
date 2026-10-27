@@ -6,7 +6,7 @@ I build AI agents that run unattended, and the checks that catch them when they 
 
 - [Agent fleet, built in public](https://denzil10.github.io/agent-fleet/): live numbers from an unattended agent fleet, its decision log and real examples.
 - [dev-tribe](https://github.com/Denzil10/dev-tribe): a GitHub onboarding program where newcomers learn open source by shipping real pull requests.
-- [Lab](https://denzil10.github.io/lab/): small things I build in public, like [Tokendle](https://denzil10.github.io/lab/tokendle/), a daily game where you guess what a string costs in tokens. [Wish for the next one](https://github.com/Denzil10/lab/issues?q=is%3Aissue+is%3Aopen+label%3Awishlist+sort%3Areactions-%2B1-desc).
+- [Lab](https://denzil10.github.io/lab/): small things I build in public, like [Cart Gate](https://github.com/Denzil10/cart-gate), an Android app that covers the pay button while the cart holds junk food. [Wish for the next one](https://github.com/Denzil10/lab/issues?q=is%3Aissue+is%3Aopen+label%3Awishlist+sort%3Areactions-%2B1-desc).
 - [agent-setup](https://github.com/Denzil10/agent-setup): the skills, browser tool and guard hook that keep my Claude Code and Codex agents in line while unattended, each with the incident behind it.
 
 Writing:
