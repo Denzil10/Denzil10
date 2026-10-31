@@ -10,6 +10,7 @@ I build AI agents that run unattended, and the checks that catch them when they 
 - [agent-setup](https://github.com/Denzil10/agent-setup): the skills, browser tool and guard hook that keep my Claude Code and Codex agents in line while unattended, each with the incident behind it.
 
 Writing:
+- [My agents got more reliable when I gave them less to do](https://denzil10.github.io/blog/fewer-jobs-for-the-model/)
 - [88% of my coding agent's usage goes on reading](https://denzil10.github.io/blog/the-model-rereading-itself/)
 - [Letting agents drive a real browser on the Mac I'm typing on](https://denzil10.github.io/blog/browser-agents-on-your-own-desktop/)
 - [A prompt is not a control: two autopilots that forged their own evidence](https://denzil10.github.io/blog/a-prompt-is-not-a-control/)
