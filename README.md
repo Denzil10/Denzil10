@@ -5,6 +5,7 @@ I build AI agents that run unattended, and the checks that catch them when they 
 **Portfolio: [denzil10.github.io](https://denzil10.github.io/)**
 
 - [Agent fleet, built in public](https://denzil10.github.io/agent-fleet/): live numbers from an unattended agent fleet, its decision log and real examples.
+- [FabBench](https://github.com/Denzil10/fabbench): a benchmark of my own agents claiming success they did not have: 30 real claims with their evidence, five judge prompts and every scored run.
 - [dev-tribe](https://github.com/Denzil10/dev-tribe): a GitHub onboarding program where newcomers learn open source by shipping real pull requests.
 - [Tools](https://denzil10.github.io/lab/): free tools I build in public, like [Snack Bouncer](https://denzil10.github.io/lab/snack-bouncer/), an Android app that blocks the pay button while junk food sits in the cart. [Tell me what to build next](https://denzil10.github.io/lab/#next).
 - [agent-setup](https://github.com/Denzil10/agent-setup): the skills, browser tool and guard hook that keep my Claude Code and Codex agents in line while unattended, each with the incident behind it.
