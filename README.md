@@ -11,6 +11,7 @@ I build AI agents that run unattended, and the checks that catch them when they 
 - [agent-setup](https://github.com/Denzil10/agent-setup): the skills, browser tool and guard hook that keep my Claude Code and Codex agents in line while unattended, each with the incident behind it.
 
 Writing:
+- [My LLM judge did the arithmetic, found the wrong number, and passed it anyway](https://denzil10.github.io/blog/the-judge-did-the-math/)
 - [My LLM judges passed a false 'verified live' 11 times in 12. My prompt fixes moved the miss.](https://denzil10.github.io/blog/each-fix-moved-the-miss/)
 - [My coding agent's guard said no 17 times in a month. It was wrong 10 of them.](https://denzil10.github.io/blog/my-guard-said-no/)
 - [My agents got more reliable when I gave them less to do](https://denzil10.github.io/blog/fewer-jobs-for-the-model/)
